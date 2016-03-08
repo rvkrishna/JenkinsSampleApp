@@ -1,0 +1,8 @@
+C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampleApp\bin\JenkinsSampleApp.dll
+C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampleApp\bin\JenkinsSampleApp.pdb
+C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampleApp\bin\JenkinsSampleApp.xml
+C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.Resources.resources
+C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.vbproj.GenerateResource.Cache
+C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.dll
+C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.xml
+C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.pdb
