@@ -6,3 +6,11 @@ C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampl
 C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.dll
 C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.xml
 C:\Users\Dev\Documents\Visual Studio 2012\Projects\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.pdb
+Z:\Projects\Git\JenkinsSampleApp\JenkinsSampleApp\bin\JenkinsSampleApp.dll
+Z:\Projects\Git\JenkinsSampleApp\JenkinsSampleApp\bin\JenkinsSampleApp.pdb
+Z:\Projects\Git\JenkinsSampleApp\JenkinsSampleApp\bin\JenkinsSampleApp.xml
+Z:\Projects\Git\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.Resources.resources
+Z:\Projects\Git\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.vbproj.GenerateResource.Cache
+Z:\Projects\Git\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.dll
+Z:\Projects\Git\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.xml
+Z:\Projects\Git\JenkinsSampleApp\JenkinsSampleApp\obj\Debug\JenkinsSampleApp.pdb
